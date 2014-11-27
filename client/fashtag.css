@@ -10,5 +10,9 @@
 
 .container .main {
   margin-top: 80px
+}
 
+.col-xs-2 {
+  width: 125px;
+  
 }
