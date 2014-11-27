@@ -1,0 +1,14 @@
+/* CSS declarations go here */
+.btn .btn-default {
+  width: 200px;
+  /*border-radius: 0px;*/
+}
+
+.navbar-default {
+  background-color: #e74c3c;
+}
+
+.container .main {
+  margin-top: 80px
+
+}
